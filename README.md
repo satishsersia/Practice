@@ -1,3 +1,3 @@
-# Upgrad
+# Practice
 
-My solution to upgrad problems EPGDS
+My solution to problems EPGDS
